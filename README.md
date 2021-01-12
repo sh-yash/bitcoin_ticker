@@ -10,8 +10,8 @@ just select the currency in which you want to view price in and you're ready to 
 This is a self learning project to understand how a mobile application is developed. This project is more of a way to get my feet wet in the area of app development.
 
 ## Installation
-- Download the apk in your mobile application.
-  ![Download Application]()
+- Download the below define APK in your mobile device.
+  ![Download Application](https://github.com/sh-yash/bitcoin_ticker/blob/master/app-armeabi-v7a-release.apk)
 - Grant the required permissions for the application to launch.
 - And Enjoy Currency Converting
 
