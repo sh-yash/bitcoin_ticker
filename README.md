@@ -1,4 +1,5 @@
 # bitcoin_ticker
+
 A mobile application where one can check the current Price for different Crypto Currrnecies like Bitcoin, ETH Zurich , XPR. It's simple and easy to use,
 just select the currency in which you want to view price in and you're ready to go.
 
@@ -22,3 +23,6 @@ This is a self learning project to understand how a mobile application is develo
 
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 samples, guidance on mobile development, and a full API reference.
+
+
+**created by Yash**
