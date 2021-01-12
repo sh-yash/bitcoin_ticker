@@ -11,7 +11,7 @@ This is a self learning project to understand how a mobile application is develo
 
 ## Installation
 - Download the below define APK in your mobile device.
-  ![CLICK HERE TO DOWNLOAD](https://github.com/sh-yash/bitcoin_ticker/blob/master/app-armeabi-v7a-release.apk)
+- [CLICK HERE TO DOWNLOAD](https://github.com/sh-yash/bitcoin_ticker/blob/master/app-armeabi-v7a-release.apk)
 - Grant the required permissions for the application to launch.
 - And Enjoy Currency Converting
 
